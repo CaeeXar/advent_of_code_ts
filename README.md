@@ -1,6 +1,6 @@
 ## Description
 
-This is my take on the [Advent of Code 2023](https://adventofcode.com/2023), written in NodeJS.
+This is my take on the (https://adventofcode.com/), written in NodeJS.
 
 ## Usage
 
